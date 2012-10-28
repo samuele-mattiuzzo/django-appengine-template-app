@@ -60,8 +60,8 @@ with django's classic *manage.py*
 
 	% python manage.py runserver
 
-If everything went fine, open a browser and head over to *http://localhost:8000/* to see your first **It Works!** screen.
-On newly generated page, you'll find useful links about django-nonrel and appengine.
+Open a browser and head over to *http://localhost:8000/* to see your first **It Works!** screen.
+On the newly generated page, you'll find useful links about django-nonrel and appengine.
 
 [1]: https://github.com/django-nonrel
 [2]: https://github.com/djangoappengine
