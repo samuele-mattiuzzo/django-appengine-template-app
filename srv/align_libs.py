@@ -26,7 +26,6 @@ FOLDERS = [
 	("django-nonrel/django", "django"),
 	("djangotoolbox/djangotoolbox", "djangotoolbox"),
 	("django-autoload/autoload", "autoload"),
-	("django-dbindexer/dbindexer", "dbindexer"),
 ]
 
 ## Repositories (with type associated)
